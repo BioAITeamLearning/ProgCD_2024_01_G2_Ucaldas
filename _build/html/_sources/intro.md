@@ -218,7 +218,7 @@ Inteligencia artificial (IA)
 
 ## Información del curso
 
-- Horarios de clases: martes (2pm a 4pm) y jueves (7am a 9:30am)
+- Horarios de clases: Lunes (4pm a 6:30pm) y jueves (10am a 11:30am)
 - La **dedicación** de tiempo es la base para completar con éxito el curso
 
 
